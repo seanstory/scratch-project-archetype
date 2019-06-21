@@ -31,4 +31,5 @@ Projects built from this archetype will include:
         -Dversion=0.1.0-SNAPSHOT \
         -B
         
+    **Note:** you need to replace the `<your groupId>` and `<your artifactId>` with, you guessed it, *your* ids.         
 3. Enjoy your JVM development!
