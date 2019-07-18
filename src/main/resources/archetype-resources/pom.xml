@@ -143,6 +143,9 @@
                         </configuration>
                     </execution>
                 </executions>
+                <configuration>
+					<proc>none</proc>
+				</configuration>
                 <dependencies>
                     <dependency>
                         <groupId>org.codehaus.groovy</groupId>
