@@ -23,7 +23,7 @@ Projects built from this archetype will include:
 
         
         mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate \
-        -DarchetypeGroupId=com.sstory.scratch \
+        -DarchetypeGroupId=com.seanjstory.scratch \
         -DarchetypeArtifactId=scratch-project-archetype \
         -DarchetypeVersion=0.1.0-SNAPSHOT \
         -DgroupId=<your groupId> \
